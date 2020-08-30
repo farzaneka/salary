@@ -1,1 +1,15 @@
 db.sqlite3
+*.egg-info
+*.opt
+*.py[co]
+.tox/
+__pycache__
+MANIFEST
+dist/
+docs/_bulid/
+docs/local/
+node_modules/
+tests/coverage_html/
+tests/.covreage
+bulid/
+tests/report/
